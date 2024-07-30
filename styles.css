@@ -127,5 +127,6 @@ span {
     background-size: auto;
     background-repeat: no-repeat;
     background-color: hsla(178, 100%, 50%, 0.6);
+    border-radius: 10px;
     
 }
